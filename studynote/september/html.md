@@ -10,6 +10,22 @@
 - 属性（attribute,property）
 - 数据类型（data type）
 
+HTML常用的数据类型有长度，颜色，URI链接地址和字符串等形式
+
+1、有长度
+	
+- 绝对数值 例如：100px（单位：px;em;等）
+- 相对数值 例如：40% （百分数表示）
+	
+
+2、颜色
+
+- 十六进制 例如白色：`div {color: #ffffff; } `
+- rgb, 例如 `div { color: rgb(132,20,180); } `
+- colorName: 例如 红色`div {color: red; } `
+
+
+
 **HTML的发展史**
 
 - HTML 1.0
